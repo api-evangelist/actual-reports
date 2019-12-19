@@ -1,0 +1,79 @@
+{
+    "name": "Actual Reports",
+    "description": "<p>Actual Reports is a versatile document generation platform that is a foundation for multiple segment-specific products that help companies streamline their document generation process. Our line of products enable you to automate your document creation and delivery process, saving you time and money. Our main products are Document Creator for QuickBooks Online, Printout Designer for online retailers, and Document Generation API for developers.<\/p>",
+    "image": "http:\/\/actualreports.com\/assets\/images\/logo\/logo.png",
+    "tags": [
+        "api provider",
+        "apis.io import",
+        "document editor",
+        "document generation",
+        "documents",
+        "have api",
+        "no api definition",
+        "office",
+        "pdf"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/actual-reports\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Actual Reports",
+            "description": null,
+            "image": "http:\/\/actualreports.com\/assets\/images\/logo\/logo.png",
+            "humanURL": "http:\/\/actualreports.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/actual-reports-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "API.json - Authoritative",
+            "url": "https:\/\/app.actualreports.com\/apis.json"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.actualreports.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/atomicinfotech.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.actualreports.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.printoutdesigner.com\/feed\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/actualreports"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/actualreports.com\/developer#pricing-table"
+        },
+        {
+            "type": "Registration",
+            "url": "https:\/\/app.actualreports.com\/signup"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ActualReports"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/actualreports.com\/"
+        }
+    ]
+}
