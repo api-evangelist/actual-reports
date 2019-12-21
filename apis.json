@@ -13,8 +13,8 @@
         "office",
         "pdf"
     ],
-    "created": "2019-12-18",
-    "modified": "2019-12-18",
+    "created": "2019-12-20",
+    "modified": "2019-12-20",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/actual-reports\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -27,8 +27,8 @@
             "tags": [],
             "properties": [
                 {
-                    "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/actual-reports-openapi.json"
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/actual-reports\/master\/actual-reports-postman-collection.json"
                 }
             ]
         }
@@ -38,6 +38,10 @@
         {
             "type": "API.json - Authoritative",
             "url": "https:\/\/app.actualreports.com\/apis.json"
+        },
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
         },
         {
             "type": "Blog",
